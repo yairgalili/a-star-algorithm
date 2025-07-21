@@ -1,0 +1,5 @@
+row_obstacle: [0, 1, 2, 3, 4]
+col_obstacle: [4, 4, 4, 4, 4]
+num_rows: 6
+num_columns: 6
+
